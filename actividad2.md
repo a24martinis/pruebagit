@@ -195,3 +195,5 @@ Puedes ampliar información en la documentación oficial de Ubuntu:
 ---
 
 **Fin de la guía.**
+
+**Cambio para prueba**
